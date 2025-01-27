@@ -1,4 +1,5 @@
 # Saksham Talwar CV
+[View My CV](https://sakshamtalwarr.github.io/saksham-talwar-cv/)
 
 This repository contains the HTML version of my professional CV. It is designed to be hosted on GitHub Pages and is easily accessible online.
 
